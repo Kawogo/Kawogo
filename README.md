@@ -8,7 +8,7 @@ Passionate full-stack web developer, profficient with Frontend: Javascript with 
 
 * 🌍  I'm based in Dar-es-salaam, Tanzania
 * ✉️  You can contact me at [dkawogo@gmail.com](mailto:dkawogo@gmail.com)
-* 🧠  I'm learning Node Js and Express Js
+* 🧠  I'm learning Node Js, Express Js, MongoDb
 
 ### Skills
 
