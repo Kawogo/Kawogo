@@ -1,7 +1,7 @@
 Hi 👋 My name is David Kawogo
 =============================
 
-Web Developer
+Full Stack Web Developer
 -------------
 
 Passionate full-stack web developer, profficient with Frontend: Javascript with Typescript & React Js Backend: PHP with Yii2 & Laravel.
