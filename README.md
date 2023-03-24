@@ -4,7 +4,7 @@ Hi 👋 My name is David Kawogo
 Full Stack Web Developer
 -------------
 
-Passionate full-stack web developer, profficient with Frontend: Javascript with Typescript & React Js Backend: PHP with Yii2 & Laravel.
+Passionate full-stack web developer, profficient with Frontend: Javascript with Typescript & React Js Backend: PHP with Yii2 & Laravel Database: Mysql.
 
 * 🌍  I'm based in Dar-es-salaam, Tanzania
 * ✉️  You can contact me at [dkawogo@gmail.com](mailto:dkawogo@gmail.com)
