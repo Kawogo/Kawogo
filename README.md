@@ -7,7 +7,7 @@ Full Stack Web Developer
 Passionate full-stack web developer, profficient with Frontend: Javascript with Typescript & React Js...Backend: PHP with Yii2 & Laravel...Database: Mysql.
 
 * 🌍  I'm based in Dar-es-salaam, Tanzania
-* ✉️  You can contact me at [dkawogo@gmail.com](mailto:dkawogo@gmail.com)
+* ✉️  You can contact me at [dkawogo79@gmail.com](mailto:dkawogo79@gmail.com)
 * 🧠  I'm learning Node Js, Express Js and MongoDb
 
 ### Skills
