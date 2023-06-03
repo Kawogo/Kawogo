@@ -4,11 +4,11 @@ Hi 👋 My name is David Kawogo
 Full Stack Web Developer
 -------------
 
-Passionate full-stack web developer, profficient with Frontend: Javascript with Typescript & React Js...Backend: PHP with Yii2 & Laravel...Database: Mysql.
+Passionate full-stack web developer, profficient with Javascript with Typescript & React Js, PHP with Yii2 & Laravel, Mysql, Frappe Framework & ERPNext.
 
 * 🌍  I'm based in Dar-es-salaam, Tanzania
 * ✉️  You can contact me at [dkawogo79@gmail.com](mailto:dkawogo79@gmail.com)
-* 🧠  Currently learning and practicing Python, Frappe Framework & ERPNext
+* 🧠  Currently learning and practicing Python and Django
 
 ### Skills
 
