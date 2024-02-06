@@ -1,4 +1,4 @@
-Hi 👋 My name is David Kawogo
+Hello 👋 My name is David Kawogo
 =============================
 
 Full Stack Web Developer
